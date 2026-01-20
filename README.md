@@ -14,3 +14,27 @@ You can find the assignment details here: <a href="cse423_assignment02.pdf">clic
 The project demo video is available to watch here: <a href="https://youtu.be/jRBdw4MglNY?si=VoUcHmVRzXq9V970">click here</a>.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+# Features
+* 2D OpenGL arcade game built with Python & PyOpenGL
+* Smooth time-based animation using delta time
+* Custom Midpoint Line Drawing Algorithm (all 8 zones supported)
+* Falling diamond collectibles with random colors
+* Increasing difficulty as diamond speed accelerates
+* Cheat mode with automatic catcher movement
+* Collision detection using bounding boxes
+* Pause, restart & exit UI controls
+* Real-time score tracking & game-over system
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+# Controls
+| Key | Action |
+|----|-------|
+| ← Arrow | Move Catcher Left |
+| → Arrow | Move Catcher Right |
+| C | Toggle Cheat Mode |
+| R | Restart(after game over) |
+| Left Click on Restart Icon | Restart Game |
+| Left Click on Pause/Play Icon | Pause / Resume Game |
+| Left Click on Exit Icon | Exit Game |
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
